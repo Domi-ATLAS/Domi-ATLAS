@@ -6,4 +6,16 @@
 
 # This are my contributions in the last year
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Domi-ATLAS2&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Domi-ATLAS&theme=apprentice)
+
+# My common code languaje
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Domi-ATLAS&theme=apprentice)
+
+# My stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Domi-ATLAS&theme=apprentice)
+
+# My commits
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Domi-ATLAS&theme=apprentice&utcOffset=8)
